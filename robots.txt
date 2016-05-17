@@ -3,4 +3,4 @@ user-agent: *
 Allow: /
 
 #Sitemap Reference
-Sitemap:https://blog.topmail.com/sitemap.xml
+Sitemap:https://blog.spondool.com/sitemap.xml

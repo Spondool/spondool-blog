@@ -1,26 +1,26 @@
 info:
   # Blog Information
-  title:        "Topmail"
-  subtitle:     "Private Secure Email"
-  cover_image:  top-screen.png
+  title:        "Spondool"
+  subtitle:     "Daily Cashflow Management"
+  cover_image:  banner.jpg
   cover_image_caption: ""
-  about_image:  top-screen.png
+  about_image:  banner.jpg
   about_image_caption: ""
-  logo:         topmail-logo-large.png
+  logo:         spondool-logo.png
   
   # Social links
-  facebook:     topmailsecure
-  twitter:      topsecureemail
+  facebook:     spondool
+  twitter:      spondool
   #github:       
   # gplus:        '101183822199340201470'
   
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
-    shortname:  topmail 
+    shortname:  topmail
   
   # Google Analytics tracking ID. Leave blank to disable tracking
-  google-analytics-id:	UA-48883226-3
+  google-analytics-id:	UA-77876918-1
   
   # Sharing settings
   sharing:
@@ -37,7 +37,7 @@ info:
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
 # Root URL where the site will be published
-url:         https://blog.topmail.com
+url:         https://blog.spondool.com
 
 # host 0.0.0.0 allows us to access site via localhost or 127.0.0.1
 host: 0.0.0.0
